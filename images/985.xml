@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imagenes</folder>
+	<filename>985.jpg</filename>
+	<path>/home/alejandro/Documents/Puig/Youtube/Deteccion de Objetos/Imagenes/985.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>21</ymin>
+			<xmax>203</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
